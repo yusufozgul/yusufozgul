@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 💻 I am an iOS Developer at **Trendyol**
-- 📒 I'm a Software Engineering Student
 - 💬 Ask me anything or read my blog: [**yusufozgul.com**](https://yusufozgul.com/)
 
 
